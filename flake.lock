@@ -79,11 +79,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1790442386,
-        "narHash": "sha256-N2x4Ob4Lpc73dj+u2IRIngkaULddeudVx7463zPdsy4=",
+        "lastModified": 1790462565,
+        "narHash": "sha256-0vD5yhtPe7mTWxPNH72vj21hC/b+kmTYHjei2RoTLZs=",
         "owner": "drazape",
         "repo": "nix-dryboil",
-        "rev": "7fe84ad93b9b3f60eda2ccff567f1ed6f9dfe148",
+        "rev": "884df4014f1e866a867b336b26bda31477dadfd7",
         "type": "github"
       },
       "original": {
@@ -209,11 +209,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1790442237,
-        "narHash": "sha256-qOoXnmgAEOLGFlRsTMNxU2xD6/5h9l1VTI/L15Tvz/c=",
+        "lastModified": 1790462398,
+        "narHash": "sha256-35XhzLFO3cyyAoHaUrOA/9D8JwEDiP8Fv6NRfRPx0Fw=",
         "owner": "drazape",
         "repo": "fish-subAbbr",
-        "rev": "363880983a4eaf4f6ed02fccf74e2535a6829fa4",
+        "rev": "6b425c410cb7db0a17ce32548439913b52095a8d",
         "type": "github"
       },
       "original": {
@@ -305,11 +305,11 @@
     "mosaic-wm": {
       "flake": false,
       "locked": {
-        "lastModified": 1790176204,
-        "narHash": "sha256-FKxO3SJRdq8tM4Sjkxmm48tuUSFjisDvMcaF/mgBstk=",
+        "lastModified": 1790459646,
+        "narHash": "sha256-3K73hofmwHJVonOGvle6IYvjAX7eCj195b8iU3Ri3tE=",
         "owner": "CleoMenezesJr",
         "repo": "MosaicWM",
-        "rev": "011d98748c38d7c01aed9e907ebfec86cdb8752b",
+        "rev": "9813d6842f6431e8b312bb142809081df468d2ce",
         "type": "github"
       },
       "original": {
