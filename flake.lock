@@ -79,11 +79,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1790533110,
-        "narHash": "sha256-ZVFNn+YVeZEryuZNGd8qiaUfWnppKaqd1/fZYE6qkxY=",
+        "lastModified": 1790608868,
+        "narHash": "sha256-Pbvb30Qiw2FlKc1Hk9FoMm88xkY4feqWgCTq3OtIHEI=",
         "owner": "drazape",
         "repo": "nix-dryboil",
-        "rev": "b9b01bb51c11eb12dd62d0da5d59cd86f30ddfef",
+        "rev": "2b189a88ea744c0068d3fc8cbc22c0accd79a696",
         "type": "github"
       },
       "original": {
@@ -209,11 +209,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1790532987,
-        "narHash": "sha256-5/0kkMcwGvgXmGo+lSM4q6G8iAmwK7ISRkhAIw7fWDE=",
+        "lastModified": 1790608698,
+        "narHash": "sha256-aQyO1PDvraWv0fajoDe+4aeba0axJxWLDBwDaRFQo1A=",
         "owner": "drazape",
         "repo": "fish-subAbbr",
-        "rev": "a0109da157a18887944c59950218a27497738e6d",
+        "rev": "b80bf80eb0675cfb9bd8e57e3767348585dde76f",
         "type": "github"
       },
       "original": {
@@ -320,11 +320,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1790463110,
-        "narHash": "sha256-hKlVl12B1dF0Q5vd9dY3lIJM5mFGWYSlXwSLAqHZ1+s=",
+        "lastModified": 1790578696,
+        "narHash": "sha256-ZoxIApko70jCdbH3l20HWXOBaT2HZd87orzd2yJ9dVE=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "e158d9ed9b51c98974c5e66e1ba1c9e0255fecaa",
+        "rev": "7a0f122f5090cf4c2ade2a13a0e229d4e19ba71f",
         "type": "github"
       },
       "original": {
@@ -360,11 +360,11 @@
         "systems": "systems_2"
       },
       "locked": {
-        "lastModified": 1790566906,
-        "narHash": "sha256-VX/ubo1NNtk4qUVYHwSQgnPRbXoEwJfPqGUXQogcDsk=",
+        "lastModified": 1790607865,
+        "narHash": "sha256-dsZYCgF66f8Jd3CBGkwNIF98DSwASOO78nHQFuDmFyU=",
         "owner": "fzakaria",
         "repo": "omniflake",
-        "rev": "824fd1bf144883670027fea2a12d77754c8e59cb",
+        "rev": "a3b51c871e6bf43c0b83ef9847e3e98826ac3067",
         "type": "github"
       },
       "original": {
