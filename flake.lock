@@ -209,11 +209,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1790676460,
-        "narHash": "sha256-uTVN2bX/lx79Ok/q+OEpTIIZ5jpb7zVBaJ5B4UHzp4U=",
+        "lastModified": 1790678049,
+        "narHash": "sha256-sWixO/ZyK1lQwzxzb5qpffzpfRm26LXY75lymG3rFSo=",
         "owner": "drazape",
         "repo": "fish-subAbbr",
-        "rev": "88bfc461db405f8850f82c3ad24b9272795766f9",
+        "rev": "f3648fc2442fa8f2ec45bf0c8dcedacedaa41767",
         "type": "github"
       },
       "original": {
