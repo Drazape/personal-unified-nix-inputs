@@ -209,11 +209,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1790691927,
-        "narHash": "sha256-v62debsbRO9lmJBEIg+JEJn5fvnayXEuuLDMC1CIFSU=",
+        "lastModified": 1790775302,
+        "narHash": "sha256-qTiQGIPm6k/2IqM+R+Cwae73+qKvMBMswKI+HSgMbpU=",
         "owner": "drazape",
         "repo": "fish-subAbbr",
-        "rev": "da9792842c8a41a2b8dee927c5f962c21fbe4b65",
+        "rev": "e6987c58ad66e6cb70355783aad38b50f4949e73",
         "type": "github"
       },
       "original": {
@@ -320,11 +320,11 @@
     },
     "nixpkgs": {
       "locked": {
-        "lastModified": 1790578696,
-        "narHash": "sha256-ZoxIApko70jCdbH3l20HWXOBaT2HZd87orzd2yJ9dVE=",
+        "lastModified": 1790689126,
+        "narHash": "sha256-ilerN1WLSvF+HMjziC/Wv99J5y02maDH+6hZPwsORKg=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "7a0f122f5090cf4c2ade2a13a0e229d4e19ba71f",
+        "rev": "b4fd65b198c599cbe814fcb9f42d25d021595ec9",
         "type": "github"
       },
       "original": {
@@ -360,11 +360,11 @@
         "systems": "systems_2"
       },
       "locked": {
-        "lastModified": 1790689847,
-        "narHash": "sha256-Bg5czZMIkkn67yB5vlFf+Sh2cN0Zs7nIfNkoyJAhoQA=",
+        "lastModified": 1790775176,
+        "narHash": "sha256-PIwX4thaZog3ybxoCNqc+Tbp8NveSDuy7yqEfR0Npy0=",
         "owner": "fzakaria",
         "repo": "omniflake",
-        "rev": "67406906eae971e36493de7e46df424bc2df77b1",
+        "rev": "3109c35b775fbd0400ecc6241a4817a937e5906b",
         "type": "github"
       },
       "original": {
