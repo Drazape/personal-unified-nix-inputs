@@ -29,8 +29,8 @@
     "chromaleon": {
       "flake": false,
       "locked": {
-        "lastModified": 1790832885,
-        "narHash": "sha256-NNnnUdCwN1cuay6JUmnXFsu+NrxcZOSDtdjVQCi7brw=",
+        "lastModified": 1790888539,
+        "narHash": "sha256-eS4hGhn0jSK4BDovf71m8PWtnA5QwOuLRSOb5jkpafU=",
         "type": "tarball",
         "url": "https://github.com/Fabito02/ChromaLeon/releases/latest/download/user-accent-colors@fabito02.shell-extension.zip"
       },
@@ -79,11 +79,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1790840376,
-        "narHash": "sha256-VUIRroQqvpz3sLS3mggDwOb5/GL9EWA0vpvwwkeLXyw=",
+        "lastModified": 1790896057,
+        "narHash": "sha256-Eck620GvjbVtmRIoIpaM7CQMXecWA7+e9juNRNqRnto=",
         "owner": "drazape",
         "repo": "nix-dryboil",
-        "rev": "751174d03b7656aa293ed2e4190ffae4498fbe3d",
+        "rev": "3d02654ecffcd334c783ef521fc38c058199f13e",
         "type": "github"
       },
       "original": {
@@ -305,11 +305,11 @@
     "mosaic-wm": {
       "flake": false,
       "locked": {
-        "lastModified": 1790825801,
-        "narHash": "sha256-IDRe2bGM9pCp5xeFgX945YgXnlxpYiGciHO+YZ5kU6M=",
+        "lastModified": 1790879448,
+        "narHash": "sha256-fA80qhlHv/wGZzM6dWs/XBWZKaWpH5wh0ddXa8ACPsc=",
         "owner": "CleoMenezesJr",
         "repo": "MosaicWM",
-        "rev": "2054f9b42f4ad51a70cce91ab3491bb979ab0d69",
+        "rev": "ee8ca886b745d750440d6fcfe72f28105901da6e",
         "type": "github"
       },
       "original": {
