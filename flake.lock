@@ -29,8 +29,8 @@
     "chromaleon": {
       "flake": false,
       "locked": {
-        "lastModified": 1789981315,
-        "narHash": "sha256-WwDvbnO9ZGOk8lmZZc3BOqCthdqoQt9mAw0eiEluKcs=",
+        "lastModified": 1790832885,
+        "narHash": "sha256-NNnnUdCwN1cuay6JUmnXFsu+NrxcZOSDtdjVQCi7brw=",
         "type": "tarball",
         "url": "https://github.com/Fabito02/ChromaLeon/releases/latest/download/user-accent-colors@fabito02.shell-extension.zip"
       },
@@ -42,11 +42,11 @@
     "chromaleon-preload": {
       "flake": false,
       "locked": {
-        "lastModified": 1788327497,
-        "narHash": "sha256-FxFh3d8VYTGoR+H7veAVZjYqPUV2uOch2IfDfCbLFIw=",
+        "lastModified": 1790814003,
+        "narHash": "sha256-s4LiUdGtZIc55bGgnStgtCDKOG+dUe6hOL1C5QPfY+A=",
         "owner": "Fabito02",
         "repo": "chromaleon-preload",
-        "rev": "fb8dc055d3f6932207a704dd75e1bbf1bed7c6e9",
+        "rev": "e40efa0b308743f6eb51b23f66dd6e3ec6031521",
         "type": "github"
       },
       "original": {
@@ -79,11 +79,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1790775450,
-        "narHash": "sha256-1FelsoQcDd2jcjSi+ohc4KB7fZlOUw39VyHb2EkSli4=",
+        "lastModified": 1790833377,
+        "narHash": "sha256-VUIRroQqvpz3sLS3mggDwOb5/GL9EWA0vpvwwkeLXyw=",
         "owner": "drazape",
         "repo": "nix-dryboil",
-        "rev": "f5eb40300a6feb4700542b0c56fd708eb5ccda61",
+        "rev": "be51e34dca5672c131bbb95dc4bddee594928244",
         "type": "github"
       },
       "original": {
@@ -305,11 +305,11 @@
     "mosaic-wm": {
       "flake": false,
       "locked": {
-        "lastModified": 1790707276,
-        "narHash": "sha256-5pqN3w00EB1gZ4Tz0Tr2iUWBS3l2ip+vVtkm0vPpO98=",
+        "lastModified": 1790825801,
+        "narHash": "sha256-IDRe2bGM9pCp5xeFgX945YgXnlxpYiGciHO+YZ5kU6M=",
         "owner": "CleoMenezesJr",
         "repo": "MosaicWM",
-        "rev": "60dc2017604419ced1f849586753731b8efe7965",
+        "rev": "2054f9b42f4ad51a70cce91ab3491bb979ab0d69",
         "type": "github"
       },
       "original": {
