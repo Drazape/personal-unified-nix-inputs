@@ -3,27 +3,27 @@
     "bibata-material-cursors-Dark": {
       "flake": false,
       "locked": {
-        "lastModified": 1787114969,
-        "narHash": "sha256-iVWEzRndGfhvRQEEeCczQZi3KJ+9DYxNpIqn+wEGfSo=",
+        "lastModified": 1790087868,
+        "narHash": "sha256-qRZIG2wGEo6Qvg9+99QSyLKmCfHGsl3DpblF7/+cH4Y=",
         "type": "tarball",
-        "url": "https://github.com/SakibShahariar/material-bibata-cursor/releases/download/v1.3.0/bibata-material-dark-v1.3.0.tar.gz"
+        "url": "https://github.com/SakibShahariar/material-bibata-cursor/releases/download/v1.5.0/bibata-material-dark-v1.5.0.tar.gz"
       },
       "original": {
         "type": "tarball",
-        "url": "https://github.com/SakibShahariar/material-bibata-cursor/releases/download/v1.3.0/bibata-material-dark-v1.3.0.tar.gz"
+        "url": "https://github.com/SakibShahariar/material-bibata-cursor/releases/download/v1.5.0/bibata-material-dark-v1.5.0.tar.gz"
       }
     },
     "bibata-material-cursors-Light": {
       "flake": false,
       "locked": {
-        "lastModified": 1787114981,
-        "narHash": "sha256-9O+xhGFASrpabkKrks/KxbacxHUMT7GDVoSJ4E+m3nw=",
+        "lastModified": 1790087891,
+        "narHash": "sha256-eb9rBKE4lIqET4a7VgHxDqWHJy064+qdVVanaQAMTic=",
         "type": "tarball",
-        "url": "https://github.com/SakibShahariar/material-bibata-cursor/releases/download/v1.3.0/bibata-material-light-v1.3.0.tar.gz"
+        "url": "https://github.com/SakibShahariar/material-bibata-cursor/releases/download/v1.5.0/bibata-material-light-v1.5.0.tar.gz"
       },
       "original": {
         "type": "tarball",
-        "url": "https://github.com/SakibShahariar/material-bibata-cursor/releases/download/v1.3.0/bibata-material-light-v1.3.0.tar.gz"
+        "url": "https://github.com/SakibShahariar/material-bibata-cursor/releases/download/v1.5.0/bibata-material-light-v1.5.0.tar.gz"
       }
     },
     "chromaleon": {
@@ -79,11 +79,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1792134277,
-        "narHash": "sha256-n+QTRNg5aIIvCMnwW65WiccSUorMfrV7WD1DVhugD/Y=",
+        "lastModified": 1792145946,
+        "narHash": "sha256-Arwf3VNpZtXuILyJKXkgR4MUPqrooEZyTzj5VlJor24=",
         "owner": "drazape",
         "repo": "nix-dryboil",
-        "rev": "34cb77e49c66c92d71a27a888dd559f746929953",
+        "rev": "5591bab5d88c07ed14fa12ebaef7ab59b513fab0",
         "type": "github"
       },
       "original": {
@@ -209,11 +209,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1792129006,
-        "narHash": "sha256-l0NkBu2bSKNbAW+sJFksRvPj/hZZiot2OWEdnHKM4rs=",
+        "lastModified": 1792142051,
+        "narHash": "sha256-icl53u8yvS2r2dDReIErldNgJn8bCXcR8BUyNFQ/EPs=",
         "owner": "drazape",
         "repo": "fish-subAbbr",
-        "rev": "cfde0f86e9884bfffa7a3d63bc86b937bdf155d1",
+        "rev": "74431dc5cbef918d0fc551cf888b97a991152d63",
         "type": "github"
       },
       "original": {
