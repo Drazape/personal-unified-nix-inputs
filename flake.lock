@@ -79,11 +79,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1792145946,
-        "narHash": "sha256-Arwf3VNpZtXuILyJKXkgR4MUPqrooEZyTzj5VlJor24=",
+        "lastModified": 1792162185,
+        "narHash": "sha256-Ksw8BC/RzEz0k57HBTN10CUFaVTeEsqcucG9Q7AE8X8=",
         "owner": "drazape",
         "repo": "nix-dryboil",
-        "rev": "5591bab5d88c07ed14fa12ebaef7ab59b513fab0",
+        "rev": "bfd85198353baca5c8317f0a2c1de0b3beb10162",
         "type": "github"
       },
       "original": {
