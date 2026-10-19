@@ -8,7 +8,7 @@
 			inputs.nixpkgs.follows = "nixpkgs";
 		};
 		# mine
-		fish-subAbbr = {
+		fish-subAbbr = { # directly added to follow `alpha` channel
 			type="github"; owner="drazape"; repo="fish-subAbbr"; ref="alpha";
 			inputs = {
 				nixpkgs.follows = "nixpkgs";
