@@ -226,11 +226,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1792489540,
-        "narHash": "sha256-r/tda2vUe7GBUk1vTkdoPGaJJAMI2Tfx6uqb35F0RAQ=",
+        "lastModified": 1792505519,
+        "narHash": "sha256-VCSmwV9VghIgdHEsD1AUTGsaHB/gXacSM8162enIQzI=",
         "owner": "drazape",
         "repo": "fish-subAbbr",
-        "rev": "d9b233f31f6248b25fda4366f06194e39a9043e6",
+        "rev": "ec84925ce4f4f761e48e4c1adbfeb9ae7cb22440",
         "type": "github"
       },
       "original": {
@@ -377,11 +377,11 @@
         "systems": "systems_2"
       },
       "locked": {
-        "lastModified": 1792419585,
-        "narHash": "sha256-DKXITX6G2xlvbGn3HjhYGb0MQjJEIl6TbKTqonPErH8=",
+        "lastModified": 1792499902,
+        "narHash": "sha256-Sq0nhzTAKHwOQwAiq/p5B1eue6a/ojN8CuYMHMVfgVU=",
         "owner": "fzakaria",
         "repo": "omniflake",
-        "rev": "7aa2c6b86357a22da1dfbc6cbb6890766133403e",
+        "rev": "ac988cab47ea2635358a3344c528a5d16235be65",
         "type": "github"
       },
       "original": {
