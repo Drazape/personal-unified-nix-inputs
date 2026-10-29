@@ -154,11 +154,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1793206371,
-        "narHash": "sha256-rLH+Y2NsJ/ReRXNA0lsPLAVzdlfYNv8TG9uGGF49SH4=",
+        "lastModified": 1793293105,
+        "narHash": "sha256-2x/M32F4rOTvu2/LnGsUfOQvrBhhhtwRg3Rap5XwPds=",
         "owner": "drazape",
         "repo": "nix-dryboil",
-        "rev": "d94d5787246a671c89c7e7dd8bdc97495b0d5c6e",
+        "rev": "ae630b17ce97f43158ef2c97e87e94fc2544a96f",
         "type": "github"
       },
       "original": {
@@ -180,11 +180,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1793108278,
-        "narHash": "sha256-Yy4TryiYcMYaR6YU9XlyNxDn9b69bI4Q6Cqc8wqtdwk=",
+        "lastModified": 1793292232,
+        "narHash": "sha256-sKT4crpm22u1e/v4amfhhjN3aamdsDxkBWhncpajPws=",
         "owner": "Drazape",
         "repo": "fish-format",
-        "rev": "a7efb0553b0e45dce6150f1a8af1e5568e3e4de2",
+        "rev": "cf1fd63c493d6eab52126ff6644413cb8a57cd48",
         "type": "github"
       },
       "original": {
@@ -221,11 +221,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1793109001,
-        "narHash": "sha256-VaZgZS+obv7MrWB3Bc0Aq2/MIB7GuKaT7vuxja697v0=",
+        "lastModified": 1793292149,
+        "narHash": "sha256-WY0tRmXjFg7wtt1iJBR23Q1Vp1vPulFA5ua1zfM8/z8=",
         "owner": "Drazape",
         "repo": "fish-helpText",
-        "rev": "74cb9dbc32f202651c9985b3bcc4de061896ba9d",
+        "rev": "1e05c6a4b77331c24288c2c12c2b47b5cf824a14",
         "type": "github"
       },
       "original": {
@@ -246,11 +246,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1793109001,
-        "narHash": "sha256-VaZgZS+obv7MrWB3Bc0Aq2/MIB7GuKaT7vuxja697v0=",
+        "lastModified": 1793292149,
+        "narHash": "sha256-WY0tRmXjFg7wtt1iJBR23Q1Vp1vPulFA5ua1zfM8/z8=",
         "owner": "Drazape",
         "repo": "fish-helpText",
-        "rev": "74cb9dbc32f202651c9985b3bcc4de061896ba9d",
+        "rev": "1e05c6a4b77331c24288c2c12c2b47b5cf824a14",
         "type": "github"
       },
       "original": {
@@ -271,11 +271,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1793113539,
-        "narHash": "sha256-Y14qJZTzYaaOhT3zES1JtK3WpykR/UGqtQCYIR2aaZA=",
+        "lastModified": 1793291958,
+        "narHash": "sha256-5SIdrKRgwcgvrTT7xbwPlNPPEErtKoncZMoY5ErFmEU=",
         "owner": "Drazape",
         "repo": "fish-nixenv",
-        "rev": "eb7da8d760d8cca0264c1313edfa57e78365fd45",
+        "rev": "ed6b36a35cfcbf8d1cfb3ea4e87e553f21d74f66",
         "type": "github"
       },
       "original": {
@@ -300,11 +300,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1793288382,
-        "narHash": "sha256-BJtePoy0miwXRxdQm+nYgyF8RyVu4ovyMcoByEipsJY=",
+        "lastModified": 1793292362,
+        "narHash": "sha256-Zojl7BjrogsDowF0nANlUEHZWV5mMztY35L1q+pK/Y4=",
         "owner": "drazape",
         "repo": "fish-subAbbr",
-        "rev": "f7cb9d7644b9a54c4a8dfe8d815d674ee62fa860",
+        "rev": "a7b18f88a023a244c86051536222f2751171c3a2",
         "type": "github"
       },
       "original": {
