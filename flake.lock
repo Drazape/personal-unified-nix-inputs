@@ -135,13 +135,13 @@
         "bibata-material-cursors-Light": "bibata-material-cursors-Light",
         "chromaleon": "chromaleon",
         "chromaleon-preload": "chromaleon-preload",
+        "fish-awabbre": [
+          "fish-awabbre"
+        ],
         "fish-format": "fish-format",
         "fish-hashmap": "fish-hashmap",
         "fish-helpText": "fish-helpText",
         "fish-nixenv": "fish-nixenv",
-        "fish-subAbbr": [
-          "fish-subAbbr"
-        ],
         "flake-parts": [
           "omniflake",
           "flake-parts"
@@ -154,17 +154,47 @@
         ]
       },
       "locked": {
-        "lastModified": 1793293105,
-        "narHash": "sha256-2x/M32F4rOTvu2/LnGsUfOQvrBhhhtwRg3Rap5XwPds=",
+        "lastModified": 1793457320,
+        "narHash": "sha256-2bYmWmrT7VtX63mx+e6wT5HfJoIugFibmZcM36pCIfg=",
         "owner": "drazape",
         "repo": "nix-dryboil",
-        "rev": "ae630b17ce97f43158ef2c97e87e94fc2544a96f",
+        "rev": "fe2e2dd45bfbee7063ce062660f77d02b344dc48",
         "type": "github"
       },
       "original": {
         "owner": "drazape",
         "ref": "alpha",
         "repo": "nix-dryboil",
+        "type": "github"
+      }
+    },
+    "fish-awabbre": {
+      "inputs": {
+        "fish-format": [
+          "dryboil",
+          "fish-format"
+        ],
+        "fish-helpText": "fish-helpText_2",
+        "flake-parts": [
+          "omniflake",
+          "flake-parts"
+        ],
+        "nixpkgs": [
+          "nixpkgs"
+        ]
+      },
+      "locked": {
+        "lastModified": 1793456832,
+        "narHash": "sha256-UxsNxEsJ05cXPewSRZKN6PxU+StqNaaXWQ/KyQ+vHVo=",
+        "owner": "drazape",
+        "repo": "fish-awabbre",
+        "rev": "ea28dacff6c126634a67cc8ede03b89240a3dc34",
+        "type": "github"
+      },
+      "original": {
+        "owner": "drazape",
+        "ref": "develop",
+        "repo": "fish-awabbre",
         "type": "github"
       }
     },
@@ -237,11 +267,11 @@
     "fish-helpText_2": {
       "inputs": {
         "flake-parts": [
-          "fish-subAbbr",
+          "fish-awabbre",
           "flake-parts"
         ],
         "nixpkgs": [
-          "fish-subAbbr",
+          "fish-awabbre",
           "nixpkgs"
         ]
       },
@@ -281,36 +311,6 @@
       "original": {
         "owner": "Drazape",
         "repo": "fish-nixenv",
-        "type": "github"
-      }
-    },
-    "fish-subAbbr": {
-      "inputs": {
-        "fish-format": [
-          "dryboil",
-          "fish-format"
-        ],
-        "fish-helpText": "fish-helpText_2",
-        "flake-parts": [
-          "omniflake",
-          "flake-parts"
-        ],
-        "nixpkgs": [
-          "nixpkgs"
-        ]
-      },
-      "locked": {
-        "lastModified": 1793292362,
-        "narHash": "sha256-Zojl7BjrogsDowF0nANlUEHZWV5mMztY35L1q+pK/Y4=",
-        "owner": "drazape",
-        "repo": "fish-subAbbr",
-        "rev": "a7b18f88a023a244c86051536222f2751171c3a2",
-        "type": "github"
-      },
-      "original": {
-        "owner": "drazape",
-        "ref": "develop",
-        "repo": "fish-subAbbr",
         "type": "github"
       }
     },
@@ -567,11 +567,11 @@
     },
     "nixpkgs_3": {
       "locked": {
-        "lastModified": 1793110635,
-        "narHash": "sha256-dhoW6VgFWlaodSY5jrBn+CF2FLmaUvDVgM7+C7T2+NM=",
+        "lastModified": 1793341285,
+        "narHash": "sha256-Y1CiZ4SoBUjLQyQM/pY+rS2dXD3CHLPstF0lmOc73D4=",
         "owner": "NixOS",
         "repo": "nixpkgs",
-        "rev": "31ecbaca1bdefa45dffc409f0250bd8039ea0010",
+        "rev": "1c89083e451e891152365b799595cf7790a43325",
         "type": "github"
       },
       "original": {
@@ -592,11 +592,11 @@
         "systems": "systems_2"
       },
       "locked": {
-        "lastModified": 1793285024,
-        "narHash": "sha256-03I0VswgiPGapyGIJvOEuyJQn1ibydKhyPwD/oCihAk=",
+        "lastModified": 1793454505,
+        "narHash": "sha256-Ki75DAjoNwI42INbf5kSUuT23aloqJg3NpU1UaZNPP0=",
         "owner": "fzakaria",
         "repo": "omniflake",
-        "rev": "a0b902fb9eed809d942ce305a2c4e3ea59ca6d73",
+        "rev": "ad0192bb4eff4f64ee3220f98eec321a712f3f6b",
         "type": "github"
       },
       "original": {
@@ -609,7 +609,7 @@
       "inputs": {
         "determinate": "determinate",
         "dryboil": "dryboil",
-        "fish-subAbbr": "fish-subAbbr",
+        "fish-awabbre": "fish-awabbre",
         "nixpkgs": "nixpkgs_3",
         "omniflake": "omniflake"
       }
