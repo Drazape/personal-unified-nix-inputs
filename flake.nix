@@ -9,8 +9,8 @@
 			inputs.nixpkgs.follows = "nixpkgs";
 		};
 		# mine
-		fish-subAbbr = { # directly added to follow `develop` channel
-			type="github"; owner="drazape"; repo="fish-subAbbr"; ref="develop";
+		fish-awabbre = { # directly added to follow `develop` channel
+			type="github"; owner="drazape"; repo="fish-awabbre"; ref="develop";
 			inputs = {
 				nixpkgs.follows = "nixpkgs";
 				flake-parts.follows = "omniflake/flake-parts";
@@ -22,7 +22,7 @@
 			inputs = {
 				nixpkgs.follows = "nixpkgs";
 				flake-parts.follows = "omniflake/flake-parts";
-				fish-subAbbr.follows = "fish-subAbbr";
+				fish-awabbre.follows = "fish-awabbre";
 			};
 		};
 	};
