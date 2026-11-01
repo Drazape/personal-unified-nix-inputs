@@ -154,11 +154,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1793457320,
-        "narHash": "sha256-2bYmWmrT7VtX63mx+e6wT5HfJoIugFibmZcM36pCIfg=",
+        "lastModified": 1793534633,
+        "narHash": "sha256-GjNdnhr4BMVinFqlKXwmLczhI6x5dJYdyl5cheynS40=",
         "owner": "drazape",
         "repo": "nix-dryboil",
-        "rev": "fe2e2dd45bfbee7063ce062660f77d02b344dc48",
+        "rev": "53dfb426a0d8782d9cd91e4d5d1b7344b96adba5",
         "type": "github"
       },
       "original": {
@@ -184,11 +184,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1793465515,
-        "narHash": "sha256-RfN5vliUaDqtjLKA8jocAI5D3DjZWG3ekd09a/MDaUk=",
+        "lastModified": 1793533818,
+        "narHash": "sha256-7aDh0qwVfEavKaMCTUu2M3TO086AyMCC+4RsKJJTH8A=",
         "owner": "drazape",
         "repo": "fish-awabbre",
-        "rev": "4f514bed82fd8254d1ca6ea3ad5ee2174cd10524",
+        "rev": "2923917d67c231762bf740fbc77dfc8972466aa7",
         "type": "github"
       },
       "original": {
