@@ -8,21 +8,11 @@
 			type="github"; owner="fzakaria"; repo="omniflake";
 			inputs.nixpkgs.follows = "nixpkgs";
 		};
-		# mine
-		fish-awabbre = { # directly added to follow `develop` channel
-			type="github"; owner="drazape"; repo="fish-awabbre"; ref="develop";
-			inputs = {
-				nixpkgs.follows = "nixpkgs";
-				flake-parts.follows = "omniflake/flake-parts";
-				fish-format.follows = "dryboil/fish-format";
-			};
-		};
 		dryboil = {
 			type="github"; owner="drazape"; repo="nix-dryboil"; ref="alpha";
 			inputs = {
 				nixpkgs.follows = "nixpkgs";
 				flake-parts.follows = "omniflake/flake-parts";
-				fish-awabbre.follows = "fish-awabbre";
 			};
 		};
 	};
