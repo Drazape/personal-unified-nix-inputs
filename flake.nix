@@ -8,6 +8,14 @@
 			type="github"; owner="fzakaria"; repo="omniflake";
 			inputs.nixpkgs.follows = "nixpkgs";
 		};
+		fish-awabbre = {
+			type="github"; owner="drazape"; repo="fish-awabbre";
+			ref="develop"; # dryBoil, whereas, follows the latest release
+			inputs = {
+				nixpkgs.follows = "nixpkgs";
+				flake-parts.follows = "omniflake/flake-parts";
+			};
+		};
 		dryboil = {
 			type="github"; owner="drazape"; repo="nix-dryboil"; ref="alpha";
 			inputs = {
