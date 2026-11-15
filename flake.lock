@@ -155,11 +155,11 @@
         "nvidia-470xx-upstream-patches": "nvidia-470xx-upstream-patches"
       },
       "locked": {
-        "lastModified": 1794760429,
-        "narHash": "sha256-R9ln7ULyWYpLStHnVPyUJLgWlUAbQyXFHmLoZT/nOlQ=",
+        "lastModified": 1794760532,
+        "narHash": "sha256-Zza7xGbb708Q2QjEGU4YBdBu2lyHn8aTpZ9zfnr1jpQ=",
         "owner": "drazape",
         "repo": "nix-dryboil",
-        "rev": "861de371026b79b19197154c2addf10c226ae285",
+        "rev": "92f3391e251057ded877c540fa956d389e063479",
         "type": "github"
       },
       "original": {
