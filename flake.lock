@@ -155,11 +155,11 @@
         "nvidia-470xx-upstream-patches": "nvidia-470xx-upstream-patches"
       },
       "locked": {
-        "lastModified": 1795000205,
-        "narHash": "sha256-D/4KWDEp7HvglZNoqh/JO1Yn+wVzSqPljJRukXhJPjs=",
+        "lastModified": 1795086559,
+        "narHash": "sha256-oBNmDcJmh0+Yhw7/HgNazagEd3qkf9spISJzjXsJ7N4=",
         "owner": "drazape",
         "repo": "nix-dryboil",
-        "rev": "ffc538d4f6ac76e179c7f69773a53e58e7f5cd1c",
+        "rev": "8324015fb7f94d0ea7fa53f1bcef7f299913e959",
         "type": "github"
       },
       "original": {
@@ -189,11 +189,11 @@
         ]
       },
       "locked": {
-        "lastModified": 1794987049,
-        "narHash": "sha256-J/kO3zkAJNofIe6btB9QQc2AegjXRXFCTZSP1zbPR0M=",
+        "lastModified": 1794996536,
+        "narHash": "sha256-lFiQJqfJhg5AFQKjPCFCfg9FcHA+cBdo6IXdt6PJPZA=",
         "owner": "Drazape",
         "repo": "fish-awabbre",
-        "rev": "f0dcc1dd3e7432f9d0e29df1095701fef4894782",
+        "rev": "80d6e58f4238c371a71abb352cd318bd0cec04cd",
         "type": "github"
       },
       "original": {
@@ -705,11 +705,11 @@
         "systems": "systems_2"
       },
       "locked": {
-        "lastModified": 1794935696,
-        "narHash": "sha256-ySJzGdYTNYPqAeYAFAWqZaBOebckjSp35Hui92YGUOI=",
+        "lastModified": 1795020667,
+        "narHash": "sha256-o7mPgN4DQE941gaqgWglNMJuShuHXtbBaLiwNt6C4co=",
         "owner": "fzakaria",
         "repo": "omniflake",
-        "rev": "345a841f160add064e937e57d903588f39413e04",
+        "rev": "247a83a9f251923bb092fe649cb1585ef597766f",
         "type": "github"
       },
       "original": {
