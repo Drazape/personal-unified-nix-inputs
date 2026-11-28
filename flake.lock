@@ -1,5 +1,21 @@
 {
   "nodes": {
+    "anilist-gtk": {
+      "flake": false,
+      "locked": {
+        "lastModified": 1643069496,
+        "narHash": "sha256-rwBfUNnur7anSl+T69X5fOGFVb4r8yZ/95pv6iP8K7A=",
+        "owner": "lunananananananana",
+        "repo": "AniList-GTK",
+        "rev": "2a1ccc5b9fad547518f37e0a74bd7fa4099872b7",
+        "type": "github"
+      },
+      "original": {
+        "owner": "lunananananananana",
+        "repo": "AniList-GTK",
+        "type": "github"
+      }
+    },
     "bdwgc": {
       "flake": false,
       "locked": {
@@ -105,6 +121,7 @@
     },
     "dryboil": {
       "inputs": {
+        "anilist-gtk": "anilist-gtk",
         "chromaleon": "chromaleon",
         "chromaleon-preload": "chromaleon-preload",
         "fish-awabbre": "fish-awabbre",
@@ -129,11 +146,11 @@
         "nvidia-470xx-upstream-patches": "nvidia-470xx-upstream-patches"
       },
       "locked": {
-        "lastModified": 1795777777,
-        "narHash": "sha256-jamvBiMDQafKvQuR8abdZyoshlXLVU50xTj1CUcGF9A=",
+        "lastModified": 1795844430,
+        "narHash": "sha256-uLkmbJRnY2KCXZucjK3FlFUc5lNvsHE/Xb16fmueg84=",
         "owner": "drazape",
         "repo": "nix-dryboil",
-        "rev": "d951fb49967c8f9d2a07264f8c151e67922f3cb0",
+        "rev": "f8ebb7b7526235571b1ac7b7ee5b8d1e4399bf95",
         "type": "github"
       },
       "original": {
